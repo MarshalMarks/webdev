@@ -19,6 +19,13 @@ As a reminder: HTML, CSS, and Javascript files can be opened in any plaintext ed
 
 This workshop should act as a springboard to lay down the basics of web development, but there is so much more that I was not able to cover in the given time. Here are some additional resources to use if you'd like to learn more:
 
+**HTML + CSS**
+- General HTML resource: https://www.w3schools.com/html/
+- General CSS resource: https://www.w3schools.com/css/
+- Game for practicing CSS selectors: https://flukeout.github.io/
+- Game for learning about flexbox: https://flexboxfroggy.com/
+
+**Javascript**
 - General Javascript resource: https://www.w3schools.com/js/
 - FreeCodeCamp crash course: https://youtu.be/jS4aFq5-91M
 - Programming practice problem rodmap: https://neetcode.io/roadmap
